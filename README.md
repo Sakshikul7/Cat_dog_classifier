@@ -1,4 +1,4 @@
-Convolutional Neural Network (CNN) Explanation
+Convolutional Neural Network (CNN) 🚀🚀
 The notebook you've created is structured to classify images of cats and dogs using a CNN model. Here's a step-by-step breakdown of the process:
 
 Step 1: Importing Required Libraries
